@@ -1,0 +1,14 @@
+
+{
+  "name": "Yumi Network Dollar",
+  "symbol": "YND",
+  "type": "stablecoin",
+  "description": "YND is the official digital currency of the Yumi Network, designed for secure and scalable transactions.",
+  "decimals": 8,
+  "issuer": "Yumi Labs",
+  "website": "https://yumiproject.org",
+  "logo": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/metadata/ynd-logo.png",
+  "network": "Hedera Hashgraph",
+  "use_case": "Payments, settlement, dApp utility",
+  "tags": ["stablecoin", "currency", "Yumi"]
+}
